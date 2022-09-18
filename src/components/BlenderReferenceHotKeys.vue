@@ -26,29 +26,57 @@
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td>Top Ortho</td>
+      <td>Top Ortho View</td>
       <td>NumPad 7</td>
       <td>Object, Edit</td>
       <td>View Port</td>
     </tr>
     <tr>
       <th scope="row">4</th>
-      <td>Bottom Ortho</td>
+      <td>Bottom Ortho View</td>
       <td>Ctrl+NumPad 7</td>
       <td>Object, Edit</td>
       <td>View Port</td>
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td>Front Ortho</td>
+      <td>Front Ortho View</td>
       <td>NumPad 1</td>
       <td>Object, Edit</td>
       <td>View Port</td>
     </tr>
     <tr>
       <th scope="row">4</th>
-      <td>Back Ortho</td>
+      <td>Back Ortho View</td>
       <td>Ctrl+NumPad 1</td>
+      <td>Object, Edit</td>
+      <td>View Port</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>Left Ortho View</td>
+      <td>NumPad 3</td>
+      <td>Object, Edit</td>
+      <td>View Port</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>Right Ortho View</td>
+      <td>Ctrl+NumPad 3</td>
+      <td>Object, Edit</td>
+      <td>View Port</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>Grab</td>
+      <td>G</td>
+      <td>Object, Edit</td>
+      <td>View Port</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>Grab Exclude Axis</td>
+      <td>G, Shift+(X,Y, or Z)</td>
       <td>Object, Edit</td>
       <td>View Port</td>
     </tr>
@@ -60,6 +88,9 @@
       name: 'BlenderReferenceHotKeys',
       props: {
         msg: String
+      },
+      mounted:function(){
+        this.method1() //method1 will execute at pageload
       },
       methods: {
         greet() {                
