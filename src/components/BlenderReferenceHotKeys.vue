@@ -69,7 +69,7 @@
     <tr>
       <th scope="row">4</th>
       <td>Grab</td>
-      <td>G</td>
+      <td>G (Optional - Confine to Axis by typing G+ (X,Y, or Z))</td>
       <td>Object, Edit</td>
       <td>View Port</td>
     </tr>
@@ -80,6 +80,35 @@
       <td>Object, Edit</td>
       <td>View Port</td>
     </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>Rotate </td>
+      <td>R</td>
+      <td>Object, Edit</td>
+      <td>View Port</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>Rotate Exclude Axis</td>
+      <td>R, Shift+(X,Y, or Z)</td>
+      <td>Object, Edit</td>
+      <td>View Port</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>Scale </td>
+      <td>S</td>
+      <td>Object, Edit</td>
+      <td>View Port</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>Scale Exclude Axis</td>
+      <td>S, Shift+(X,Y, or Z)</td>
+      <td>Object, Edit</td>
+      <td>View Port</td>
+    </tr>
+   
   </tbody>
 </table>
   </template>
