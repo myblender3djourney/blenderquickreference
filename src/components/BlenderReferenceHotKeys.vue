@@ -71,44 +71,92 @@
       <td>Grab</td>
       <td>G (Optional - Confine to Axis by typing G+ (X,Y, or Z))</td>
       <td>Object, Edit</td>
-      <td>View Port</td>
+      <td>Transform Object</td>
     </tr>
     <tr>
       <th scope="row">4</th>
       <td>Grab Exclude Axis</td>
       <td>G, Shift+(X,Y, or Z)</td>
       <td>Object, Edit</td>
-      <td>View Port</td>
+      <td>Transform Object</td>
     </tr>
     <tr>
       <th scope="row">4</th>
       <td>Rotate </td>
       <td>R</td>
       <td>Object, Edit</td>
-      <td>View Port</td>
+      <td>Transform Object</td>
     </tr>
     <tr>
       <th scope="row">4</th>
       <td>Rotate Exclude Axis</td>
       <td>R, Shift+(X,Y, or Z)</td>
       <td>Object, Edit</td>
-      <td>View Port</td>
+      <td>Transform Object</td>
     </tr>
     <tr>
       <th scope="row">4</th>
       <td>Scale </td>
       <td>S</td>
       <td>Object, Edit</td>
-      <td>View Port</td>
+      <td>Transform Object</td>
     </tr>
     <tr>
       <th scope="row">4</th>
       <td>Scale Exclude Axis</td>
       <td>S, Shift+(X,Y, or Z)</td>
       <td>Object, Edit</td>
-      <td>View Port</td>
+      <td>Transform Object</td>
     </tr>
-   
+    <tr>
+      <th scope="row">4</th>
+      <td>Delete Object</td>
+      <td>X</td>
+      <td>Object, Edit</td>
+      <td>Transform Object</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>Duplicate Object</td>
+      <td>Shift+D</td>
+      <td>Object, Edit</td>
+      <td>Transform Object</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>Join Object</td>
+      <td>Ctrl+D</td>
+      <td>Object</td>
+      <td>Transform Object</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>Extrude</td>
+      <td>E</td>
+      <td>Edit</td>
+      <td>Edit Object</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>Fill</td>
+      <td>F</td>
+      <td>Edit</td>
+      <td>Edit Object</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>Splice</td>
+      <td>Ctrl+R</td>
+      <td>Edit</td>
+      <td>Edit Object</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>Bevel</td>
+      <td>Ctrl+B</td>
+      <td>Edit</td>
+      <td>Edit Object</td>
+    </tr>
   </tbody>
 </table>
   </template>
