@@ -11,6 +11,13 @@
   </thead>
   <tbody>
     <tr>
+      <th scope="row">4</th>
+      <td>Switch Between Object/Edit Mode</td>
+      <td>Tab</td>
+      <td>Object, Edit</td>
+      <td>General</td>
+    </tr>
+    <tr>
       <th scope="row">1</th>
       <td>Zoom</td>
       <td>Middle Mouse</td>
@@ -157,6 +164,27 @@
       <td>Edit</td>
       <td>Edit Object</td>
     </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>Edge Loops Select</td>
+      <td>Alt</td>
+      <td>Edit</td>
+      <td>Edit Object</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>Pie Menu</td>
+      <td>.</td>
+      <td>Object/Edit</td>
+      <td>Tools</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>Search</td>
+      <td>F3</td>
+      <td>Object/Edit</td>
+      <td>Tools</td>
+    </tr>    
   </tbody>
 </table>
   </template>
